@@ -6,7 +6,12 @@
   <li> Help someone land a job/career</li>
   <li> Something that could one day, <strong>change the <em>world</em></strong></li>
 </ul>
-Github pages let you turn github repository into eligant website to showcase any documents! 
+Github pages let you turn github repository into eligant website to showcase the following
+<ol>
+ <li> Portfolio's</li>
+ <li> Projects</li>
+ <li> Documentation</li>
+</ol>
  <h2><strong>how does <em>Github</em> work?</strong></h2>
 <ul>
  <li> Serves all of your projects from a personal url</li>
