@@ -8,12 +8,14 @@ Is best believed as basic abitlities that are developed through hard work and de
 
 # Embrace your imperfections
 <ul>
-  <li> Face your challenges with you head up</li>
+  <li> <strong>Face your challenges with you head up</strong></li>
 </ul>
+
 ## <strong>Be coachable</storng>
 <ul>
   <li> Be abel to take consturctive criticism in order to make yourself better</li>
 </ul>
+
 ### <strong>Use other people success as inspiration</strong>
 <ul>
   <li>Have that go get it attitude</li>
