@@ -2,7 +2,7 @@
 You are more than welcome to bookmark this information for your own benefits!
 
 Growth-Mindset<br>
-Is best believed as basic abitlities that are developed through hard work and dedication!
+Is best <em>believed</em> as basic abitlities that are developed through hard work and dedication!
 
 <strong>Three Reminders to <em>help</em> with Growth-Mindset</strong>
 
@@ -13,7 +13,7 @@ Is best believed as basic abitlities that are developed through hard work and de
 
 ## <strong>Be coachable</storng>
 <ul>
-  <li> Be abel to take consturctive criticism in order to make yourself better</li>
+  <li> Be able to take consturctive criticism in order to make yourself better</li>
 </ul>
 
 ### <strong>Use other people success as inspiration</strong>
