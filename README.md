@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to iiamDb's Homepage
+You are more than welcome to bookmark this information for you benefits
 
-You can use the [editor on GitHub](https://github.com/iiamDb/iiamdb.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
