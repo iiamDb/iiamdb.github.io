@@ -21,3 +21,6 @@ Is best <em>believed</em> as basic abitlities that are developed through hard wo
   <li>Have that go get it attitude!</li>
   <li> Work as hard so that you can put yourself in a similar position</li>
 </ul>
+
+Self Introduction
+[My Github Profile](https://github.com/iiamDb)
