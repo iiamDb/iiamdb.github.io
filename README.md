@@ -10,3 +10,12 @@ Is best believed as basic abitlities that are developed through hard work and de
 <ul>
   <li> Face your challenges with you head up</li>
 </ul>
+## Be coachable
+<ul>
+  <li> Be abel to take consturctive criticism in order to make yourself better</li>
+</ul>
+### Use other people success as inspiration
+<ul>
+  <li>Have that go get it attitude</li>
+  <li> Work as hard so that you can put yourself in a similar position</li>
+</ul>
