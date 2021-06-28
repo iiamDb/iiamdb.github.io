@@ -7,7 +7,7 @@
   <li> Something that could one day, <strong>change the <em>world</em></strong></li>
 </ul>
 Github pages let you turn github repository into eligant website to showcase any documents! 
-## <h2><strong>how does <em>Github</em> work?</strong></h2>
+ <h2><strong>how does <em>Github</em> work?</strong></h2>
 <ul>
  <li> Serves all of your projects from a personal url</li>
  <li> look for web content for your project from a special branch</li>
