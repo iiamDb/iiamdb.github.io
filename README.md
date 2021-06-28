@@ -1,14 +1,14 @@
 ## Welcome to iiamDb's Homepage
-You are more than welcome to bookmark this information for your benefits!
+You are more than welcome to bookmark this information for your own benefits!
 
 Growth-Mindset<br>
-Is best believed as basic abitlities that are developed through hard work and dedication
+Is best believed as basic abitlities that are developed through hard work and dedication!
 
 <strong>Three Reminders to <em>help</em> with Growth-Mindset</strong>
 
 # Embrace your imperfections
 <ul>
-  <li> <strong>Face your challenges with you head up</strong></li>
+  <li> <strong>Face your challenges with your head up</strong></li>
 </ul>
 
 ## <strong>Be coachable</storng>
