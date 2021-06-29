@@ -16,3 +16,10 @@
   <li> <strong>Distributed Version Control</strong>- This system addresses the major vulnerability of the CVS: the server as a single point of failure>
 </ol>
 <h2> So, what is <em>Git</em>?</h2>
+<ul>
+  <li> Git creates a snapshot of the file and stores a reference to it.</li>
+  <li> Git mostly relies on local operations because most neccessary information can be found in local resources.<li>
+  <li> Git will always detect file corruption or loss of information in transit.</li>
+  <li> Git is set up to greatly minimize the possibility of irreversible damage to files, such as accidently lost data.</li>
+  <li> Files in Git can reside in three main states: committed, modified and staged.</li>
+</ul>
