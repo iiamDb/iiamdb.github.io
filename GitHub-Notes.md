@@ -11,7 +11,8 @@
 
  ### Different type of *Version Control's*
  <ol>
-  <li> Local Version Control- A local VCS entails one database on your hard disk that stores changes to files</li>
-  <li> Centralized Version Control- The need for collaboration withing a developer team on a single file or set of files led to the advent of the Centralized Version Control System (CVCS). This system entails a single server storing all changes and file versions, which can be accessed by various clients.</li>
-  <li> Distributed Version Control- This system addresses the major vulnerability of the CVS: the server as a single point of failure>
+  <li> <strong>Local Version Control</strong>- A local VCS entails one database on your hard disk that stores changes to files</li>
+  <li> <strong>Centralized Version Control</strong>- The need for collaboration withing a developer team on a single file or set of files led to the advent of the Centralized Version Control System (CVCS). This system entails a single server storing all changes and file versions, which can be accessed by various clients.</li>
+  <li> <strong>Distributed Version Control</strong>- This system addresses the major vulnerability of the CVS: the server as a single point of failure>
 </ol>
+<h2> So, what is <em>Git</em>?</h2>
