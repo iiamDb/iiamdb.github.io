@@ -15,3 +15,7 @@
     font-size: 5em;
   }</li>
 </ul>
+<h3> CSS Modules</h3>
+<ul>
+ <li> CSS is broken down into modules. You'll see reference to these modules as you can explore MDN and many of the documentation pages are organized around a particular module.</li>
+</ul>
