@@ -10,5 +10,8 @@
 <h2> CSS syntax</h2>
 <ul>
  <li> CSS is a rule-based language; you define rules specifying groups of styles that should be applied to particular elements or groups of elements on your web page. For example " I want the main heading on my page to be shown as large red text."</li>
-
+ <li>h1 {
+    color: red;<br>
+    font-size: 5em;
+  }</li>
 </ul>
