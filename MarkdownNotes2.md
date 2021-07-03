@@ -1,18 +1,13 @@
- # What I learned about markdown
-* Markdown is a way to style text on the web.
-* Markdown can be used in most places on GitHub
-* Markdown is a superset of HTML, any HTML file is valid Markdown
-* Markdown can use syntaxes such as Headers, Emphasis, Lists(Unordered and Ordered), Images, links, Blockquotes and Inline code.
+# What is Markdown?
 
- **You can make tables and task list on markdown.**
+* A way to style text on the web
+* You can control the display of the document; formatting words as bold or italic
+* Regular text with a non-alphabetic characters thrown in, like # or *
 
-Github Pages
-Pages turns repositories into websites
+# [Basic Syntax](https://guides.github.com/features/mastering-markdown/)
 
-Personal url tied to projects in GitHub repositories
-
-Streamlined publishing experience
-
-*Examples of Syntax <br>
-*Example of Strikethrough <br>
-*Example of Italic
+# GitHib Flavored Markdown
+* Uses its own version that provides an additional set of useful features
+* Only available in the descriptions and comments of Issues and Pull Requests
+* These include @mentions as well as to SHA-! hashes, Issues, and Pull Requests
+# [Syntax Highlighting](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
