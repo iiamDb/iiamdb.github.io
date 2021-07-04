@@ -15,3 +15,19 @@ Different UX designers approach the task of wireframing in different ways. Some 
 * UXPin: A wide rang of functionalities, but one of the best ones is how it facilitates building responsive clickable prototypes directly in your browser.
 * InVision: Allows you to get feedback straigt from your team and users through clickable mock-ups of your site design. It's completely free too!
 * Wirefram.cc: Provides you with the technology to create wireframes really quickly withing your browser, the online version of pen and paper.
+
+#### How to make your Wireframes in six steps
+* Do your research
+* Prepare your research for quick reference
+* Make sure you have your user flow mapped out
+* Draft, dont't draw. Sketch, don't illustrate
+* Add some detail and get testing
+* Start turning your wireframing into prototypes
+
+##### How to make your wireframing good: 3 key Principles
+* Clarity: Needs to answer questions of what that site page is, what the user can do there, and if it satifies their needs.
+* Confidence: Ease of navigation through your site and clear calls-to-action increase user confidence in your brand.
+* Simplicity is key: Too much information, copy, or links, can be distracting to the user and will have a detrimental affect on your users' abiltiy to achieve their goals.
+
+[HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+[Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
