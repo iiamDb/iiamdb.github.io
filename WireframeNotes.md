@@ -29,5 +29,5 @@ Different UX designers approach the task of wireframing in different ways. Some 
 * Confidence: Ease of navigation through your site and clear calls-to-action increase user confidence in your brand.
 * Simplicity is key: Too much information, copy, or links, can be distracting to the user and will have a detrimental affect on your users' abiltiy to achieve their goals.
 
-[HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+[HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) <br>
 [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
