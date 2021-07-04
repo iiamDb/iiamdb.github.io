@@ -1,26 +1,14 @@
 ## Welcome to iiamDb's Homepage
 You are more than welcome to bookmark this information for your own benefits!
 
-Growth-Mindset<br>
-Is best <em>believed</em> as basic abitlities that are developed through hard work and dedication!
+# About Me
+Hello, My name is Devin Blakely. I have always been interested in anything that has something to do with technology. I most definitely look forward to grasping and using a new skill to help better my future! 
 
-<strong>Three Reminders to <em>help</em> with Growth-Mindset</strong>
-
-# Embrace your imperfections!
-<ul>
-  <li> <strong>Face your challenges with your head up</strong></li>
-</ul>
-
-## <strong>Be coachable!</storng>
-<ul>
-  <li> Be able to take consturctive criticism in order to make yourself better</li>
-</ul>
-
-### <strong>Use other people success as inspiration</strong>
-<ul>
-  <li>Have that go get it attitude!</li>
-  <li> Work as hard so that you can put yourself in a similar position</li>
-</ul>
+#Table of Contents
+* [TextEditor](https://iiamdb.github.io/TextEditor3)
+* [Markdown](https://iiamdb.github.io/MarkdownNotes2)
+* [GitHub](https://iiamdb.github.io/GitHub-Notes)
+* [CSS](https://iiamdb.github.io/CSS-Notes) <br>
 
 Self Introduction
 [My Github Profile](https://github.com/iiamDb)
