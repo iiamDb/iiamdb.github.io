@@ -10,7 +10,7 @@
 # Using the software that already comes with your computer
 * Although every computer will come with it's own text editor, there are other text editors that have features that you may be interested in!
 
-[Different Text Editor Softwares](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
+[Different Text Editor Software](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 
 # The Difference between Text-Editors and IDEs
 * A text editor kind of gives away what it does in the title, and it also manages text and files.
